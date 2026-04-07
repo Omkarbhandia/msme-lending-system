@@ -56,13 +56,4 @@ If you prefer running services directly:
 
 ---
 
-## 🧪 Running Tests
-The decision engine includes a comprehensive unit test suite (19/19 passing on all rule bounds and failure cases).
-```bash
-cd backend
-npm test
-```
-
----
-
 *Built by Omkar Bhandia*
